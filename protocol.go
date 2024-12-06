@@ -9,7 +9,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/mailhog/data"
+	data "github.com/skyscooby/MailHog-data"
 )
 
 // Command is a struct representing an SMTP command (verb + arguments)
